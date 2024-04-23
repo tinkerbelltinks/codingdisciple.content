@@ -1,0 +1,26 @@
+project/
+│
+├── frontend/
+│   ├── public/
+│   │   ├── index.html
+│   │   └── ...
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── ...
+│   │   ├── styles/
+│   │   │   └── ...
+│   │   ├── App.js
+│   │   └── index.js
+│   └── ...
+│
+├── backend/
+│   ├── controllers/
+│   │   └── ...
+│   ├── models/
+│   │   └── ...
+│   ├── routes/
+│   │   └── ...
+│   ├── app.js
+│   └── ...
+│
+└── 
